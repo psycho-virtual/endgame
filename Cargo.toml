@@ -7,3 +7,4 @@ edition = "2021"
 rand = "0.8"          # For cryptographic randomness
 sha2 = "0.10"         # For hash functions
 rayon = "1.7"         # For parallelization
+hex = "0.4"
